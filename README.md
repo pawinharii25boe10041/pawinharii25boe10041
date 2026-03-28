@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm R PAWINHARII 👋
 
-<!--
-**pawinharii25boe10041/pawinharii25boe10041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🏫 **University:** VIT Bhopal University
+- 📜 **Degree:** B.Tech Bioengineering
+- 📅 **Batch:** 2025 - 2029
+- 🆔 **Registration No:** 25BOE10041
 
-Here are some ideas to get you started:
+### 🚀 My Goals
+I am a Bioengineering student passionate about bridging biology and technology. 
+Alongside my academic focus on physiology and computational biology, I hold a certification in AutoCAD 2D, 
+which equips me with design and visualization skills for biomedical applications. 
+I am eager to explore opportunities in biomedical device design, AI-driven healthcare solutions, 
+and interdisciplinary research projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+- 🧬 Bio-analysis & Research
+- 💻 Python
+- 📊 Data Visualization
+
+---
+*“Integrating engineering principles with biological systems to shape the future.”*
